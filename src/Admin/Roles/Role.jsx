@@ -93,7 +93,7 @@ function Role() {
                 className="btn1"
                 onClick={() => navigate("/admin/roles/add")}
               >
-                Add
+                Add +
               </button>
               <div className="search-filter">
                 <input

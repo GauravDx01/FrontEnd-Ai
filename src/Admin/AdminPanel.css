@@ -6,4 +6,9 @@
     display: flex;
     flex-direction: column;
   }
-  
+  .head-admin{
+    margin-bottom: 10px;
+  }
+  .head-admin{
+    position: relative;
+  }

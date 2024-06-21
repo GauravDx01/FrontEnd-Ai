@@ -5,7 +5,7 @@ import img1 from '../Images/cropped-logo.webp';
 import Loader from "../Loader/Loader";
 import { URL } from '../url/url';
 import FetchDataForm from "./FetchDataForm";
-
+import {Data} from './'
 function Ai() {
   const [fileContent, setFileContent] = useState('');
   const [question, setQuestion] = useState("");
